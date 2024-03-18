@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "firsthirewebscrapperbbf75504": {}
+      },
+      "api": {
+        "firsthirewebscrapper": {}
+      },
+      "storage": {
+        "firstHireResources": {}
       }
     }
   }
